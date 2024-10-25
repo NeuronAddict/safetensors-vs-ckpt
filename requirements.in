@@ -2,3 +2,4 @@ matplotlib
 pandas
 torch
 fastai
+gradio >= 5
