@@ -249,6 +249,8 @@ ruff==0.7.1
     # via gradio
 safehttpx==0.1.1
     # via gradio
+safetensors==0.4.5
+    # via -r requirements.in
 scikit-learn==1.5.2
     # via fastai
 scipy==1.14.1

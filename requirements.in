@@ -3,3 +3,4 @@ pandas
 torch
 fastai
 gradio >= 5
+safetensors
