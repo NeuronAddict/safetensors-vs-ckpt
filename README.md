@@ -1,3 +1,10 @@
+# Safetensors vs CKPT
+
+Vidéo du tutoriel : https://youtu.be/FcBLxDyOwrA.
+
+
+Template original : https://github.com/NeuronAddict/python-ai-template
+
 # Template for python container for AI
 
 This repo extend https://github.com/NeuronAddict/python-template (python template).
